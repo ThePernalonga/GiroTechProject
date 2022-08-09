@@ -40,6 +40,11 @@ Optei por fazer uma aplicação simples para não ter que importar nem criar nen
 javac projetoGiroTechJava.java
 java projetoGiroTechJava.java args[0] args[1] args[2]
 ```
+
+- Args[0]: Capital
+- Args[1]: Taxa (em %)
+- Args[2]: Periodo (em meses)
+
 ----
 
 # Python
