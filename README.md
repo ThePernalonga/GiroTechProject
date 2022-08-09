@@ -52,5 +52,11 @@ java projetoGiroTechJava.java args[0] args[1] args[2]
 ## Necessário a seguinte biblioteca:
 
 Responsável por trazer uma interface web.
-|PyWebIO| pip3 install pywebio|
-|---|---|
+|PyWebIO|
+|---|
+
+```
+pip3 install pywebio
+```
+
+Optei por fazer uma aplicação simples para não ter que importar nem criar nenhum projeto novo.
